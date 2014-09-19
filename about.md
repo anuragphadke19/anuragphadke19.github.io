@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-A manager by profession and developer by interest. Contact me for question on RoR & Meteor
+A manager by profession and developer by interest. Contact me for questions on RoR & Meteor
 
 ### Contact me
 

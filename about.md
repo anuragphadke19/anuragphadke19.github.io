@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-A manager by profession and developer by interest
+A manager by profession and developer by interest. Contact me for question on RoR & Meteor
 
 ### Contact me
 
